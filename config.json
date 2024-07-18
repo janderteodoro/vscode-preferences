@@ -1,0 +1,61 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "terminal.integrated.fontSize": 13,
+    "debug.console.fontSize": 13,
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 16,
+    "editor.tabSize": 2,
+    "editor.lineHeight": 1.8,
+    "security.workspace.trust.untrustedFiles": "open",
+    "symbols.hidesExplorerArrows": false,
+    "editor.wordWrap": "on",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+
+    "window.titleBarStyle": "native",
+    "eslint.validate": [
+        "javascript"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontFamily": "Menlo Nerd Font",
+    "terminal.integrated.fontFamily": "Menlo Nerd Font",
+    "debug.console.fontFamily": "Menlo Nerd Font",
+    "scm.inputFontFamily": "Menlo Nerd Font",
+    "yaml.schemas": {
+        "file:///Users/jander/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "trafficLightPosition": {
+            "x": 11,
+            "y": 10,
+        }
+    },
+    "apc.header": {
+        "height": 36
+    },
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+    //     ".pane-body": "padding: 8px",
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "apc.font.family": "Inter",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Omni",
+    
+}
